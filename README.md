@@ -53,6 +53,7 @@ DELETE	/contacts/{id}	Delete a contact
 
 ## Code Structure
 address-book/
+
 ├── pom.xml                     # Maven Project Object Model file
 ├── src/
 │   └── main/
