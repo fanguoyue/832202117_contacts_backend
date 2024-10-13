@@ -31,7 +31,7 @@ This is a Spring Boot-based Address Book application that allows users to manage
 
 ## Installation
 
-### Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/address-book.git
