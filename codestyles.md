@@ -4,8 +4,6 @@
 > - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 > - [Oracle's Java Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
 > - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-> - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-> - [W3C HTML & CSS Standards](https://www.w3.org/standards/webdesign/)
 
 This document outlines the coding standards followed in this project to ensure readability, maintainability, and consistency.
 
