@@ -55,16 +55,27 @@ DELETE	/contacts/{id}	Delete a contact
 address-book/
 
 ├── pom.xml                     # Maven Project Object Model file
+
 ├── src/
+
 │   └── main/
+
 │       ├── java/
+
 │       │   └── me/demo/demo1/
+
 │       │       ├── AddressBookApplication.java  # Main application class
+
 │       │       ├── Contact.java                  # Entity class for Contact
+
 │       │       ├── ContactController.java        # REST Controller for Contact management
+
 │       │       ├── ContactRepository.java        # Repository interface for Contact
+
 │       │       └── WebConfig.java                # Configuration for CORS
+
 │       └── resources/
+
 │           └── application.properties            # Application configuration
 
 ## Contributing
