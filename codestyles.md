@@ -16,6 +16,7 @@ Constants: Use UPPER_CASE_WITH_UNDERSCORES. Example: DEFAULT_PORT, MAX_SIZE
 Write comments to explain why a specific solution was chosen, not just what the code does. Focus on providing insights into complex logic or decisions.
 Use /** ... */ for class-level and method-level documentation.
 Inline comments (//) can be used to explain logic inside methods, but should be concise.
+
 Spring Boot Best Practices
 1. Application Structure
 Controller: Handle HTTP requests and responses. Example: ContactController.
