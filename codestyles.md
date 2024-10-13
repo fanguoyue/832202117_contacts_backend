@@ -41,6 +41,3 @@ Provide meaningful error messages and return appropriate HTTP status codes when 
 Git Commit Messages
 Use clear and concise commit messages in the imperative mood:
 Example: Add new endpoint for contact creation instead of Added new endpoint...
-Commit message format:
-Title (short and to the point, 50 characters max)
-Body (optional, longer explanation of the changes)
