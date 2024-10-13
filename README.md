@@ -17,4 +17,4 @@ Prerequisites
 Java 11 installed and configured
 Maven installed
 MySQL server (using IP 8.136.126.246 for cloud access)
-(Optional) Apache web server if running in production
+Apache web server if running in production
