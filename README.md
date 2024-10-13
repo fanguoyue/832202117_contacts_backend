@@ -42,16 +42,16 @@ Ensure you have a MySQL server running and create a database for the application
 Start the Back-End Service
 Make sure you have Java JDK 11 and Maven installed. Then run the following command in the project directory:
 mvn spring-boot:run
-Usage
+## Usage
 Open your browser and navigate to http://localhost:8080.
 Use the API endpoints to manage your contacts. You can use tools like Postman or curl for testing.
-API Endpoints
+## API Endpoints
 Method	Endpoint	Description
 POST	/contacts	Add a new contact
 GET	/contacts	Retrieve all contacts
 PUT	/contacts/{id}	Update an existing contact
 DELETE	/contacts/{id}	Delete a contact
-Code Structure
+## Code Structure
 address-book/
 ├── pom.xml                     # Maven Project Object Model file
 ├── src/
@@ -65,7 +65,7 @@ address-book/
 │       │       └── WebConfig.java                # Configuration for CORS
 │       └── resources/
 │           └── application.properties            # Application configuration
-Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
@@ -73,10 +73,10 @@ Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -m 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Submit a pull request.
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 Special thanks to:
 
 Spring Boot for the framework.
