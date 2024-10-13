@@ -40,4 +40,4 @@ Use try-catch blocks to handle exceptions in service layers and controllers.
 Provide meaningful error messages and return appropriate HTTP status codes when exceptions occur (e.g., 404 Not Found for missing resources).
 Git Commit Messages
 Use clear and concise commit messages in the imperative mood:
-Example: Add new endpoint for contact creation instead of Added new endpoint...
+Example: Add new endpoint for contact creation instead of Added new endpoint
